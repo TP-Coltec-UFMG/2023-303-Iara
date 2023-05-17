@@ -1,5 +1,5 @@
 
-<h1> Iara </h1>
+<h1 align='center'> Iara </h1>
 
 | Participantes | Nome |
 | :---: | :--- |
@@ -9,5 +9,5 @@
 | <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/4018c40c-0874-45e5-a3a3-21a7dd28e1f9" width="170"> | **Vitória Ellen Honório [@vitoriaEHon](https://github.com/vitoriaEHon)**<br>
 | <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/b808d044-2067-42a4-a20b-d207b8b28e35" width="170"> | **Inaue Ferreira [@Inaue](https://github.com/Inaue)**<br>
 
-<h2> Descrição do jogo </h2>
-<h2> ## Descrição do jogo </h2>
+<h2 align='center'> Descrição do jogo </h2>
+<h2 align='center'> ## Descrição do jogo </h2>
