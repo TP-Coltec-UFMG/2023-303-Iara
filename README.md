@@ -1,5 +1,5 @@
 
-<h1 align='center'> Iara </h1>
+<h1> Iara </h1>
 
 | Participantes | Nome |
 | :---: | :--- |
