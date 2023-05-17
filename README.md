@@ -1,6 +1,6 @@
 
 <!--Iara-->
-<img align='center' src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/33eb6eb2-7b7b-4862-a4e3-f813091f72ff" width="800"><br>
+<img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/33eb6eb2-7b7b-4862-a4e3-f813091f72ff" width="800"><br>
 
 | Participantes | Nome |
 | :---: | :--- |
@@ -32,3 +32,4 @@ O menu possui 3 botões:
 - Iniciar
 - Configurações
 - Sair
+ <img src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/d7a637a6-613b-472f-ab17-ad976744d3a5" width="1280">
