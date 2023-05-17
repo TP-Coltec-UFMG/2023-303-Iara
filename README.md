@@ -1,6 +1,6 @@
 
 <h1> Iara </h1>
-<img align='center' src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/33eb6eb2-7b7b-4862-a4e3-f813091f72ff" width="1500"><br>
+<img align='center' src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/33eb6eb2-7b7b-4862-a4e3-f813091f72ff" width="800"><br>
 
 | Participantes | Nome |
 | :---: | :--- |
