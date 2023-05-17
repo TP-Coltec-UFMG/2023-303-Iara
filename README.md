@@ -14,7 +14,7 @@
 # Descrição do jogo
 ## Estilo do Jogo (Categorias)
 - RPG e Plataforma
-
+ <img align='center' src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/d7a637a6-613b-472f-ab17-ad976744d3a5" width="1280">
 Alguns jogos estudados como referência: Tropicália, XILÒ.
 ## História
 Folclore
@@ -32,4 +32,4 @@ O menu possui 3 botões:
 - Iniciar
 - Configurações
 - Sair
- <img src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/d7a637a6-613b-472f-ab17-ad976744d3a5" width="1280">
+
