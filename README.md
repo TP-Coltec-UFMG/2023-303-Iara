@@ -10,11 +10,19 @@
 | <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/4018c40c-0874-45e5-a3a3-21a7dd28e1f9" width="170"> | **Vitória Ellen Honório [@vitoriaEHon](https://github.com/vitoriaEHon)**<br>
 | <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/b808d044-2067-42a4-a20b-d207b8b28e35" width="170"> | **Inaue Ferreira [@Inaue](https://github.com/Inaue)**<br>
 <br>
-<h2 align='center'> Descrição do jogo </h2>
+
+# Descrição do jogo
 ## Estilo do Jogo(Categorias)
 - RPG e Plataforma
 ## História
 
+## Estética - nao precisa ainda
 
 Alguns jogos estudados como referencia: Tropicália, XILÒ.
-<h2 align='center'> Descrição do jogo </h2>
+<br>
+# Menu
+## - Inicial 
+## - Configurações
+- Audio 
+- Vídeo 
+- Acessibilidade
