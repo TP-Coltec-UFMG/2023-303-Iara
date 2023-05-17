@@ -12,13 +12,14 @@
 <br>
 
 # Descrição do jogo
-## Estilo do Jogo(Categorias)
+## Estilo do Jogo (Categorias)
 - RPG e Plataforma
+
+Alguns jogos estudados como referência: Tropicália, XILÒ.
 ## História
+Folclore
+## Estética - não precisa ainda
 
-## Estética - nao precisa ainda
-
-Alguns jogos estudados como referencia: Tropicália, XILÒ.
 <br>
 # Menu
 ## - Inicial 
@@ -26,3 +27,8 @@ Alguns jogos estudados como referencia: Tropicália, XILÒ.
 - Audio 
 - Vídeo 
 - Acessibilidade
+
+O menu possui 3 botões:
+- Iniciar
+- Configurações
+- Sair
