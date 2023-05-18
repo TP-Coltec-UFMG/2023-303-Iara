@@ -23,7 +23,7 @@ Folclore
 <br>
 # Menu
 ## - Inicial
-<img src="https://drive.google.com/file/d/1IUYrLFJsNzBcioqiFDH7BrjMKcFsfZBk/view?usp=sharing">
+<img src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
 ## - Configurações
 - Audio 
 - Vídeo 
@@ -33,4 +33,5 @@ O menu possui 3 botões:
 - Iniciar
 - Configurações
 - Sair
+
 
