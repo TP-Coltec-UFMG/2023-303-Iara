@@ -22,9 +22,9 @@ Folclore
 
 <br>
 # Menu
-## - Inicial
+## Inicial
 <img src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
-## - Configurações
+## Configurações
 <img src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/b6661603-3350-41ed-87f9-826119acadde">
 - Audio 
 - Vídeo 
