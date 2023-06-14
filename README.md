@@ -21,11 +21,9 @@ Alguns jogos estudados como referência: Tropicália, XILÒ.
 ## História
 Folclore
 <br>
-## Estética - não precisa ainda
 
 <br>
-# Menu
-## Inicial
+## Menu
 <img align='center1' src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
 <br>
 
