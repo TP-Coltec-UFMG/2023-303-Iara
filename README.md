@@ -17,13 +17,9 @@
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/d7a637a6-613b-472f-ab17-ad976744d3a5" width="1280">
  <br>
 Alguns jogos estudados como referência: Tropicália, XILÒ.
-<br>
-## História
-Folclore
-<br>
 
 ## Menu
-<img align="center1" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
+<img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
 <br>
 
 ## Configurações
@@ -39,7 +35,7 @@ O menu possui 3 botões:
 - Configurações
 - Sair
 
-## Scripts
+## Scripts - MENU
 <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/e1ead5be-ae3f-45c3-84ab-3a77612ab456">
 <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/d6a7e4d6-ba81-4042-84dd-a92706ef8718">
 <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/a954fa95-9f8b-4629-b247-f2e90080b90d">
