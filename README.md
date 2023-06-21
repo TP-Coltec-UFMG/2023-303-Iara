@@ -12,6 +12,7 @@
 <br>
 
 # Descrição do jogo
+https://www.figma.com/file/b7d6vXyqqsisY2mMrkaPrV/Untitled?type=whiteboard&node-id=0-1&t=UVVQ4iGa7z9DoRIq-0
 ## Estilo do Jogo (Categorias)
 - RPG e Plataforma
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/d7a637a6-613b-472f-ab17-ad976744d3a5" width="1280">
