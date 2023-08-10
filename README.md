@@ -1,4 +1,4 @@
-<h1>Link do projeto no drive - https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing</h1>
+<h2>Link do projeto no drive - https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing</h2>
 <!--Iara-->
 <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/33eb6eb2-7b7b-4862-a4e3-f813091f72ff" width="800"><br>
 
