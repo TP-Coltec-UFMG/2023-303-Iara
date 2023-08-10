@@ -43,7 +43,7 @@ O menu possui 3 botões:
 <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/9004f656-63db-4857-9f76-52d6b2ccf72d">
 
 ## Jogo
- <img align="center" src="3.png" width="300">
+ <img align="center" src="[3.png](https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/3.png)" width="300">
  <img align="center" src="4.png" width="300">
  <img align="center" src="5.png" width="300">
  <img align="center" src="pixil-frame-0 (2).png" width="300">
