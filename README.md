@@ -44,8 +44,8 @@ Relatório Figma: https://www.figma.com/file/b7d6vXyqqsisY2mMrkaPrV/Untitled?typ
 
 ## Configurações
 o primeiro passo em nosso projeto do jogo Iara foi criar um menu. Nosso grupo desenvolveu um menu de jogo inclusivo, considerando tanto pessoas com daltonismo quanto aquelas que dependem do recurso TalkBack. Para os daltonicos, tanto o menu quanto o jogo se ajusta a paleta de cores necessária, abrangindo a 3 níveis de daltonismo, garantindo contraste adequado e identificação clara de elementos. Além disso, integramos o TalkBack, permitindo que usuários com deficiências visuais naveguem no menu por meio de feedback auditivo e informações faladas. Dessa forma, nosso menu se torna acessível e amigável para uma variedade de jogadores, independentemente de suas necessidades.
-
 Outras configurações gerais: ativar ou desativar a música de fundo e controlar o volume do jogo.
+
 [**Vídeo de Apresentação do Menu**](https://drive.google.com/file/d/1VC4zgYsE2lifQCO9uvLN2uXaweyx2G2A/view?usp=sharing)
 <br>
 
