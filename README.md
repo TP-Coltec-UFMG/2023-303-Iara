@@ -34,25 +34,25 @@ Relatório Figma: https://www.figma.com/file/b7d6vXyqqsisY2mMrkaPrV/Untitled?typ
 - Objetivo: Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela, pula sobre obstáculos, derrota inimigos e coleta todas as poções, que contém poderes das figuras folclóricas para combater o vilão em uma batalha final. 
  <br>
 
-## Menu Acessível
+# Menu Acessível: TalkBack e Daltonismo
 <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
 
+## Configurações
 o primeiro passo em nosso projeto do jogo Iara foi criar um menu. Nosso grupo desenvolveu um menu de jogo inclusivo, considerando tanto pessoas com daltonismo quanto aquelas que dependem do recurso TalkBack. Para os daltonicos, tanto o menu quanto o jogo se ajusta a paleta de cores necessária, abrangindo a 3 níveis de daltonismo, garantindo contraste adequado e identificação clara de elementos. Além disso, integramos o TalkBack, permitindo que usuários com deficiências visuais naveguem no menu por meio de feedback auditivo e informações faladas. Dessa forma, nosso menu se torna acessível e amigável para uma variedade de jogadores, independentemente de suas necessidades.
 
 Outras configurações gerais: ativar ou desativar a música de fundo e controlar o volume do jogo.
 vídeo do menu:
 <br>
 
+# Jogo
 
-## Jogo
-
-- Personagens:
-  - Iara
-   * Sobre: Iara é a personagem central do jogo, retratada como uma jovem corajosa e determinada, sua coragem é o que mais qualifica pra missão de guardiã das tradições, reside no Vale das preciosas e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
-   * Valores: coragem, curiosidade e compromisso com a preservação das tradições.
-   * Personalidade: caracterizada pela sua empatia e desejo de proteger seu povo.
- 
-  * 
+## Personagens:
+  ### Iara
+   - Sobre: Iara é a personagem central do jogo, retratada como uma jovem corajosa e determinada, sua coragem é o que mais qualifica pra missão de guardiã das tradições, reside no Vale das preciosas e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
+   - Valores: coragem, curiosidade e compromisso com a preservação das tradições.
+   - Personalidade: caracterizada pela sua empatia e desejo de proteger seu povo.
+   - 
+ ## Cenas 
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/firstImage.png" width="1280">
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/obstaculoImage.png" width="1280">
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/pergaminhoImage.png" width="1280">
