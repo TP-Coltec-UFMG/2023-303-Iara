@@ -1,12 +1,17 @@
-Link do projeto no drive - https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing
+[**Link do projeto no Drive 🌐**](https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing)
 <!--Iara-->
-<img align="center" src="Logo IARA.png" width="500"><br>
+<div style="display: flex; justify-content: center; align-items: center; height: 600;">
+  <img src="Logo IARA.png" alt="Logo do jogo IARA" width=300" style="display: block; margin: 0 auto;">
+</div>
+
 
 # Participantes
-<img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/d92ed285-f3bf-4118-b5a0-dfd89fddfd5b" width="170"><br> | **Julia Alice Leão [@juliaaliceleao](https://github.com/juliaaliceleao)**<br>
-| <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/2b3f1c40-f732-419a-875d-3ea8e5a46fad" width="170"> | **Anny Caroline Almeida Marcelino [@annyACAM](https://github.com/annyACAM)**<br>
-| <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/dd57077c-ffb3-4ebf-a240-8d77c036517d" width="170"> | **Bernardo de Oliveira Silva [@Bernardo-O-Silva](https://github.com/Bernardo-O-Silva)**<br>
-| <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/4018c40c-0874-45e5-a3a3-21a7dd28e1f9" width="170"> | **Vitória Ellen Honório [@vitoriaEHon](https://github.com/vitoriaEHon)**<br>
+<img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/d92ed285-f3bf-4118-b5a0-dfd89fddfd5b" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/2b3f1c40-f732-419a-875d-3ea8e5a46fad" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/dd57077c-ffb3-4ebf-a240-8d77c036517d" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/4018c40c-0874-45e5-a3a3-21a7dd28e1f9" width="140" height="220"><br>
+|**Julia Alice Leão [@juliaaliceleao](https://github.com/juliaaliceleao)** <br>         
+|**Anny Caroline Almeida Marcelino [@annyACAM](https://github.com/annyACAM)** <br>  
+|**Bernardo de Oliveira Silva [@Bernardo-O-Silva](https://github.com/Bernardo-O-Silva)** <br>
+
+|**Vitória Ellen Honório [@vitoriaEHon](https://github.com/vitoriaEHon)** <br>
 
 # Descrição do jogo
 ## História
@@ -51,7 +56,10 @@ vídeo do menu:
    - Sobre: Iara é a personagem central do jogo, retratada como uma jovem corajosa e determinada, sua coragem é o que mais qualifica pra missão de guardiã das tradições, reside no Vale das preciosas e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
    - Valores: coragem, curiosidade e compromisso com a preservação das tradições.
    - Personalidade: caracterizada pela sua empatia e desejo de proteger seu povo.
-   - 
+  ### Pedro Jurupari
+   - Sobre: Pedro Jurupari, um vilão moldado pela ganância implacável e a manipulação sinistra, busca o poder por meio de todas as riquezas que o Vale da preciosa esconde. Sua personificação ardilosa e determinação inabalável lançam uma sombra ameaçadora.
+   - Valores: Inescrupuloso,Manipulador Habilidoso, Ganância Implacável, Orgulhoso.
+   - Personalidade: orgulho arrogante e uma solidão enraizada.
  ## Cenas 
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/firstImage.png" width="1280">
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/obstaculoImage.png" width="1280">
