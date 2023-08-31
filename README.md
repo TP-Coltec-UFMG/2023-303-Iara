@@ -18,12 +18,21 @@ Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O j
 
 Ao longo do jogo, os jogadores exploram cenários  inspirados na Amazônia, encontrando criaturas folclóricas como o Curupira e o Saci, e resolvendo enigmas relacionados às histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira.
 
-## Importãncia
+## Importância
 A importância educativa do jogo é notável. Ao interagir com personagens e objetos do folclore, os jogadores aprendem sobre mitos, lendas e tradições, o que enriquece seu conhecimento cultural. Além disso, o jogo estimula a pesquisa e o interesse pelo próprio folclore, incentivando os jogadores a explorar mais profundamente a rica herança cultural do Brasil.
 
 A preservação das culturas e tradições é uma lição subjacente no jogo. Ao vivenciar as histórias e desafios enfrentados por Iara, os jogadores compreendem a importância de manter vivas as histórias passadas de geração em geração. O jogo destaca como as tradições folclóricas são parte fundamental da identidade de um povo e como a preservação cultural é vital para não perdermos conexões com nossas raízes. 
 
-## Proteja Suas Raízes:
+# Objetivos Vitais
+A história de Iara personifica três objetivos vitais:
+
+## Tenha Coragem:
+A jornada de Iara é impulsionada por sua coragem intrépida para enfrentar desafios desconhecidos. À medida que ela se aventura para recuperar os pergaminhos e enfrentar Pedro Jurupari, sua determinação inspira a todos a enfrentarem seus medos com bravura, transformando a incerteza em oportunidade.
+
+## Por Quem Você Lutaria: Iara luta não apenas por si mesma, mas pela comunidade ribeirinha do Vale da Preciosa e pelas tradições enraizadas que ali florescem. Seu exemplo mostra que nossos esforços podem transcender o individual, guiados pelo desejo de proteger e servir aos outros, abraçando o poder da união em prol de um bem maior.
+
+## Proteja Suas Raízes: A busca de Iara pelos pergaminhos encapsula a importância de proteger nossas raízes culturais. Ao preservar as memórias do folclore, ela reafirma que nossa identidade está intrinsecamente ligada à herança que compartilhamos. Essa lição profunda nos recorda que preservar a tradição é honrar nosso passado enquanto construímos nosso futuro.
+# Proteja Suas Raízes:
 Nesse caminho cheio de obstáculos, Iara é impulsionada pelo desejo de proteger as tradições que ela própria teme perder. Suas raízes, tão frágeis nesse momento quanto suas esperanças, se tornam o núcleo do que ela luta para preservar. Ela nos recorda que é preciso encarar nossas inseguranças para preservar o que é mais precioso para nós. Em meio a suas próprias incertezas e medos, Iara emerge como um exemplo vivo de coragem, lembrando-nos de que a verdadeira coragem reside em enfrentar nossas fragilidades. Sua luta pessoal espelha uma jornada compartilhada por todos nós, para proteger aqueles que amamos, mesmo quando nos sentimos frágeis. Ela personifica a batalha interna que muitas vezes travamos para vencer nossos próprios demônios. Através dessas camadas, Iara se torna um farol, iluminando o caminho para todos que enfrentam suas próprias batalhas internas e lutam por aquilo que amam.
 
 Iara não apenas oferece uma experiência envolvente de jogo, mas também atua como uma ferramenta educativa para promover o folclore e a conscientização sobre a importância da preservação das culturas e tradições.
