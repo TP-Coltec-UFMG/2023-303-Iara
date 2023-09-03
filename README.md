@@ -1,7 +1,7 @@
 [**Link do projeto no Drive 🌐**](https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing)
 <!--Iara-->
-<div style="display: flex; justify-content: center; align-items: center; height: 1000;">
-  <img src="logo Iara.png" alt="Logo do jogo IARA" width=1000" style="display: block; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; height: 800;">
+  <img src="logo Iara.png" alt="Logo do jogo IARA" width=800" style="display: block; margin: 0 auto;">
 </div>
 
 # Participantes
