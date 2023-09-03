@@ -26,12 +26,9 @@ A preservação das culturas e tradições é uma lição subjacente no jogo. Ao
 # Objetivos Vitais
 A história de Iara personifica três objetivos vitais:
 
-## Tenha Coragem:
-A jornada de Iara é impulsionada por sua coragem intrépida para enfrentar desafios desconhecidos. À medida que ela se aventura para recuperar os pergaminhos e enfrentar Pedro Jurupari, sua determinação inspira a todos a enfrentarem seus medos com bravura, transformando a incerteza em oportunidade.
+## Proteja Suas Raízes: 
+A busca de Iara pelos pergaminhos encapsula a importância de proteger nossas raízes culturais. Ao preservar as memórias do folclore, ela reafirma que nossa identidade está intrinsecamente ligada à herança que compartilhamos. Essa lição profunda nos recorda que preservar a tradição é honrar nosso passado enquanto construímos nosso futuro.
 
-## Por Quem Você Lutaria: Iara luta não apenas por si mesma, mas pela comunidade ribeirinha do Vale da Preciosa e pelas tradições enraizadas que ali florescem. Seu exemplo mostra que nossos esforços podem transcender o individual, guiados pelo desejo de proteger e servir aos outros, abraçando o poder da união em prol de um bem maior.
-
-## Proteja Suas Raízes: A busca de Iara pelos pergaminhos encapsula a importância de proteger nossas raízes culturais. Ao preservar as memórias do folclore, ela reafirma que nossa identidade está intrinsecamente ligada à herança que compartilhamos. Essa lição profunda nos recorda que preservar a tradição é honrar nosso passado enquanto construímos nosso futuro.
 # Proteja Suas Raízes:
 Nesse caminho cheio de obstáculos, Iara é impulsionada pelo desejo de proteger as tradições que ela própria teme perder. Suas raízes, tão frágeis nesse momento quanto suas esperanças, se tornam o núcleo do que ela luta para preservar. Ela nos recorda que é preciso encarar nossas inseguranças para preservar o que é mais precioso para nós. Em meio a suas próprias incertezas e medos, Iara emerge como um exemplo vivo de coragem, lembrando-nos de que a verdadeira coragem reside em enfrentar nossas fragilidades. Sua luta pessoal espelha uma jornada compartilhada por todos nós, para proteger aqueles que amamos, mesmo quando nos sentimos frágeis. Ela personifica a batalha interna que muitas vezes travamos para vencer nossos próprios demônios. Através dessas camadas, Iara se torna um farol, iluminando o caminho para todos que enfrentam suas próprias batalhas internas e lutam por aquilo que amam.
 
@@ -47,18 +44,18 @@ Relatório Figma: https://www.figma.com/file/b7d6vXyqqsisY2mMrkaPrV/Untitled?typ
 - Objetivo: Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela, pula sobre obstáculos, derrota inimigos e coleta todas as poções, que contém poderes das figuras folclóricas para combater o vilão em uma batalha final. 
  <br>
 
-# Menu Acessível: TalkBack e Daltonismo
+# Menu Acessível: TalkBack e Daltonismo Áudio Bilateral
 <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
 
 ## Configurações
-o primeiro passo em nosso projeto do jogo Iara foi criar um menu. Nosso grupo desenvolveu um menu de jogo inclusivo, considerando tanto pessoas com daltonismo quanto aquelas que dependem do recurso TalkBack. Para os daltonicos, tanto o menu quanto o jogo se ajusta a paleta de cores necessária, abrangindo a 3 níveis de daltonismo, garantindo contraste adequado e identificação clara de elementos. Além disso, integramos o TalkBack, permitindo que usuários com deficiências visuais naveguem no menu por meio de feedback auditivo e informações faladas. Dessa forma, nosso menu se torna acessível e amigável para uma variedade de jogadores, independentemente de suas necessidades.
+o primeiro passo em nosso projeto do jogo Iara foi criar um menu. Nosso grupo desenvolveu um menu de jogo inclusivo, considerando tanto pessoas com daltonismo quanto aquelas que dependem do recurso TalkBack. Para os daltonicos, o jogo se ajusta a paleta de cores necessária, abrangindo a 3 níveis de daltonismo, garantindo contraste adequado e identificação clara de elementos. Também o jogo apresenta a acessibilidade do áudio bilateral, para a jogabilidade atráves do som que não precisa ser ativado, sendo uma ferramenta a todos os usuários. Além disso, integramos o TalkBack, permitindo que usuários com deficiências visuais naveguem no menu por meio de feedback auditivo e informações faladas. Dessa forma, nosso menu se torna acessível e amigável para uma variedade de jogadores, independentemente de suas necessidades.
 Outras configurações gerais: ativar ou desativar a música de fundo e controlar o volume do jogo.
 
 [**Vídeo de Apresentação do Menu**](https://drive.google.com/file/d/1VC4zgYsE2lifQCO9uvLN2uXaweyx2G2A/view?usp=sharing)
+Importante: após a data do vídeo o menu se encontra atualizado.
 <br>
 
 # Jogo
-
 ## Personagens:
   ### Iara
    - Sobre: Iara é a personagem central do jogo, retratada como uma jovem corajosa e determinada, sua coragem é o que mais qualifica pra missão de guardiã das tradições, reside no Vale das preciosas e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
@@ -68,6 +65,9 @@ Outras configurações gerais: ativar ou desativar a música de fundo e controla
    - Sobre: Pedro Jurupari, um vilão moldado pela ganância implacável e a manipulação sinistra, busca o poder por meio de todas as riquezas que o Vale da preciosa esconde. Sua personificação ardilosa e determinação inabalável lançam uma sombra ameaçadora.
    - Valores: Inescrupuloso,Manipulador Habilidoso, Ganância Implacável, Orgulhoso.
    - Personalidade: orgulho arrogante e uma solidão enraizada.
+  ### NPC
+  - Cuca
+
  ## Cenas 
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/firstImage.png" width="1280">
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/obstaculoImage.png" width="1280">
