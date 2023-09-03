@@ -2,8 +2,7 @@
 <!--Iara-->
 <div style="display: flex; justify-content: center; align-items: center; height: 600;">
   <img src="Logo IARA.png" alt="Logo do jogo IARA" width=300" style="display: block; margin: 0 auto;">
-</div>![logo Iara](https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568516/51f7a351-6780-4c3a-a433-ffa86ca83f1f)
-
+</div>
 
 # Participantes
 <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/d92ed285-f3bf-4118-b5a0-dfd89fddfd5b" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/2b3f1c40-f732-419a-875d-3ea8e5a46fad" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/dd57077c-ffb3-4ebf-a240-8d77c036517d" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/4018c40c-0874-45e5-a3a3-21a7dd28e1f9" width="140" height="220"><br>
