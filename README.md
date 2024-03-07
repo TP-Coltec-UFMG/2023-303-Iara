@@ -52,7 +52,7 @@ Outras configurações gerais: ativar ou desativar a música de fundo e controla
 Importante: após a data do vídeo o menu se encontra atualizado.
 <br>
 
-# Jogo
+# Jogabilidade
 ## Personagens:
   ### Iara
    - Sobre: Iara é a personagem central do jogo, retratada como uma jovem corajosa e determinada, sua coragem é o que mais qualifica pra missão de guardiã das tradições, reside no Vale das preciosas e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
@@ -62,8 +62,11 @@ Importante: após a data do vídeo o menu se encontra atualizado.
    - Sobre: Pedro Jurupari, um vilão moldado pela ganância implacável e a manipulação sinistra, busca o poder por meio de todas as riquezas que o Vale da preciosa esconde. Sua personificação ardilosa e determinação inabalável lançam uma sombra ameaçadora.
    - Valores: Inescrupuloso,Manipulador Habilidoso, Ganância Implacável, Orgulhoso.
    - Personalidade: orgulho arrogante e uma solidão enraizada.
+## Fotos
+![image](https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568516/094d28e0-f4f1-492a-a83b-9496d67340cd)
+![image](https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568516/0b5ee377-7634-4c61-b835-9678d4b12b70)
+![image](https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568516/c570fcfe-fe4c-43e5-8c9a-c0463e93a986)
+
 
  ## Trailer
-https://www.youtube.com/embed/9o-Vs8AHhiE?si=cybtgtSMNanmcMEc
-
 https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568516/9ba9164a-0c69-415b-9ca7-bc23131ba7f1
