@@ -63,10 +63,6 @@ Importante: após a data do vídeo o menu se encontra atualizado.
    - Valores: Inescrupuloso,Manipulador Habilidoso, Ganância Implacável, Orgulhoso.
    - Personalidade: orgulho arrogante e uma solidão enraizada.
 
- ## Cenas 
- <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/firstImage.png" width="1280">
- <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/obstaculoImage.png" width="1280">
- <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/pergaminhoImage.png" width="1280">
-
- 
+ ## Trailer
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/9o-Vs8AHhiE?si=cybtgtSMNanmcMEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
