@@ -9,7 +9,6 @@
 |**Julia Alice Leão [@juliaaliceleao](https://github.com/juliaaliceleao)**              | <br>         
 |**Anny Caroline Almeida Marcelino [@annyACAM](https://github.com/annyACAM)**           |<br>  
 |**Bernardo de Oliveira Silva [@Bernardo-O-Silva](https://github.com/Bernardo-O-Silva)**| <br>
-
 |**Vitória Ellen Honório [@vitoriaEHon](https://github.com/vitoriaEHon)**               | <br>
 
 # Descrição do jogo
@@ -23,13 +22,12 @@ A importância educativa do jogo é notável. Ao interagir com personagens e obj
 
 A preservação das culturas e tradições é uma lição subjacente no jogo. Ao vivenciar as histórias e desafios enfrentados por Iara, os jogadores compreendem a importância de manter vivas as histórias passadas de geração em geração. O jogo destaca como as tradições folclóricas são parte fundamental da identidade de um povo e como a preservação cultural é vital para não perdermos conexões com nossas raízes. 
 
-# Objetivos Vitais
-A história de Iara personifica três objetivos vitais:
+# Objetivo Vital
 
 ## Proteja Suas Raízes: 
 A busca de Iara pelos pergaminhos encapsula a importância de proteger nossas raízes culturais. Ao preservar as memórias do folclore, ela reafirma que nossa identidade está intrinsecamente ligada à herança que compartilhamos. Essa lição profunda nos recorda que preservar a tradição é honrar nosso passado enquanto construímos nosso futuro.
 
-# Proteja Suas Raízes:
+# Proteja Suas Raízes: Funcionamento
 Nesse caminho cheio de obstáculos, Iara é impulsionada pelo desejo de proteger as tradições que ela própria teme perder. Suas raízes, tão frágeis nesse momento quanto suas esperanças, se tornam o núcleo do que ela luta para preservar. Ela nos recorda que é preciso encarar nossas inseguranças para preservar o que é mais precioso para nós. Em meio a suas próprias incertezas e medos, Iara emerge como um exemplo vivo de coragem, lembrando-nos de que a verdadeira coragem reside em enfrentar nossas fragilidades. Sua luta pessoal espelha uma jornada compartilhada por todos nós, para proteger aqueles que amamos, mesmo quando nos sentimos frágeis. Ela personifica a batalha interna que muitas vezes travamos para vencer nossos próprios demônios. Através dessas camadas, Iara se torna um farol, iluminando o caminho para todos que enfrentam suas próprias batalhas internas e lutam por aquilo que amam.
 
 Iara não apenas oferece uma experiência envolvente de jogo, mas também atua como uma ferramenta educativa para promover o folclore e a conscientização sobre a importância da preservação das culturas e tradições.
