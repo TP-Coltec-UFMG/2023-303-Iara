@@ -61,8 +61,6 @@ Importante: após a data do vídeo o menu se encontra atualizado.
    - Sobre: Pedro Jurupari, um vilão moldado pela ganância implacável e a manipulação sinistra, busca o poder por meio de todas as riquezas que o Vale da preciosa esconde. Sua personificação ardilosa e determinação inabalável lançam uma sombra ameaçadora.
    - Valores: Inescrupuloso,Manipulador Habilidoso, Ganância Implacável, Orgulhoso.
    - Personalidade: orgulho arrogante e uma solidão enraizada.
-  ### NPC
-  - Cuca
 
  ## Cenas 
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/firstImage.png" width="1280">
