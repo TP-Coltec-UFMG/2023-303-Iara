@@ -64,8 +64,6 @@ Importante: após a data do vídeo o menu se encontra atualizado.
    - Personalidade: orgulho arrogante e uma solidão enraizada.
 
  ## Trailer
- 
-<figure class="video_container">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/9o-Vs8AHhiE?si=cybtgtSMNanmcMEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
-</figure>
+https://www.youtube.com/embed/9o-Vs8AHhiE?si=cybtgtSMNanmcMEc
+
+https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568516/9ba9164a-0c69-415b-9ca7-bc23131ba7f1
